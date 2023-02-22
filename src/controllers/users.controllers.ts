@@ -1,4 +1,4 @@
-import { query, Request, Response } from 'express'
+import { Request, Response } from 'express'
 import { createUsersService, retriveUsersService, retriveUserProfileService, updateUserService, deleteUserService, activateUserService } from '../services/users/createUsers.services'
 import { tUserRequest, tUserUpdateData } from '../interfaces/users.interfaces'
 
