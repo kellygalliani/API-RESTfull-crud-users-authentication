@@ -38,9 +38,13 @@ A aplicação é uma API que permite funções como Cadastro e Login com diferen
 ### 4.1 Instalação:
 
 git clone git@github.com:kellygalliani/API-RESTfull-crud-users-authentication.git
+<br>
 cd API-RESTfull-crud-users-authentication.git
+<br>
 npm install
+<br>
 npm start
+<br>
 optional: include .env in your .gitignore
 
 ### 4.2 Variáveis de ambiente - para conexão com o Banco de dados:
@@ -49,11 +53,17 @@ Crie a pasta .env na raiz do repositório
 Copie as variáveis de ambiente que estão no .env.example
   
   DB_USER=
+  <br>
   DB_HOST=
+  <br>
   DB_PASSWORD=
+  <br>
   DB_PORT=
+  <br>
   DB=
+  <br>
   SECRET_KEY=
+  <br>
   APP_PORT=
 
 Inclua as suas informações de configuração.
