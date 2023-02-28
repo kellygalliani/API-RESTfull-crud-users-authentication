@@ -62,7 +62,7 @@ Inclua as suas informações de configuração.
 
 ## 5. Deselvolvedora
 
-- <a name="kelly" href="" target="_blank">Alexander Silva</a>
+- <a name="kelly" href="" target="_blank">Kelly Cristina</a>
 
 <a name="termos"></a>
 
