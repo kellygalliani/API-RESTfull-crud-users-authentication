@@ -3,11 +3,10 @@
 <h2>Tabela de Conteúdos</h2>
 
 1. [ Sobre ](#sobre)
-2. [ Links Relevantes ](#links)
-3. [ Tecnologias](#techs)
-4. [ Instalação ](#install)
-5. [ Desenvolvedores ](#devs)
-6. [ termos de uso ](#termos)
+2. [ Tecnologias](#techs)
+3. [ Instalação ](#install)
+4. [ Desenvolvedores ](#devs)
+5. [ termos de uso ](#termos)
 
 <a name="sobre"></a>
 
@@ -18,12 +17,6 @@ O projeto foi desenvolvido no quarto módulo curso de Desenvolvimento Full Stack
 A aplicação é uma API que permite funções como Cadastro e Login com diferentes perfis de usuário, hasheamento de senha, criação de token seguro com chave secreta.
 
 <a name="links"></a>
-
-## 2. Links Relevantes
-
-- <a name="documentação-api" href="https://documenter.getpostman.com/view/18741402/UVR8q88w" target="_blank">Documentação API</a>
-
-<a name="problema"></a>
 
 <a name="techs"></a>
 
