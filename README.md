@@ -4,9 +4,10 @@
 
 1. [ Sobre ](#sobre)
 2. [ Tecnologias](#techs)
-3. [ Instalação ](#install)
-4. [ Desenvolvedores ](#devs)
-5. [ termos de uso ](#termos)
+3. [ Documentação ](#documentacao)
+4. [ Instalação ](#install)
+5. [ Desenvolvedores ](#devs)
+6. [ termos de uso ](#termos)
 
 <a name="sobre"></a>
 
@@ -31,11 +32,17 @@ A aplicação é uma API que permite funções como Cadastro e Login com diferen
 - <a name="dotenv" href="https://www.npmjs.com/package/dotenv" target="_blank">Dotenv</a>
 - <a name="postgreSQL" href="https://www.postgresql.org/docs/" target="_blank">PostgreSQL</a>
 
+<a name="documentacao"></a>
+
+## 4. Documentação
+
+<a name="doc" href="https://doc-api-adm.vercel.app/" target="_blank">Link da Documentação</a>
+
 <a name="install"></a>
 
-## 4. Instalação e uso
+## 5. Instalação e uso
 
-### 4.1 Instalação:
+### 5.1 Instalação:
 
 git clone git@github.com:kellygalliani/API-RESTfull-crud-users-authentication.git
 <br>
@@ -47,7 +54,7 @@ npm start
 <br>
 optional: include .env in your .gitignore
 
-### 4.2 Variáveis de ambiente - para conexão com o Banco de dados:
+### 5.2 Variáveis de ambiente - para conexão com o Banco de dados:
 
 Crie a pasta .env na raiz do repositório
 Copie as variáveis de ambiente que estão no .env.example
@@ -70,12 +77,12 @@ Inclua as suas informações de configuração.
 
 <a name="devs"></a>
 
-## 5. Deselvolvedora
+## 6. Deselvolvedora
 
 - <a name="kelly" href="" target="_blank">Kelly Cristina</a>
 
 <a name="termos"></a>
 
-## 6. Termos de uso
+## 7. Termos de uso
 
 Este é um projeto Open Source para fins educacionais e não comerciais, **Tipo de licença** - <a name="mit" href="https://opensource.org/licenses/MIT" target="_blank">MIT</a>
