@@ -21,7 +21,7 @@ A aplicação é uma API que permite funções como Cadastro e Login com diferen
 
 <a name="techs"></a>
 
-## 3. Tecnologias
+## 2. Tecnologias
 
 - <a name="nodeJS" href="https://docs.nodejs.org/en/docs/" target="_blank">NodeJS</a>
 - <a name="express" href="https://expressjs.com/pt-br/starter/installing.html" target="_blank">Express</a>
@@ -34,15 +34,15 @@ A aplicação é uma API que permite funções como Cadastro e Login com diferen
 
 <a name="documentacao"></a>
 
-## 4. Documentação
+## 3. Documentação
 
 <a name="doc" href="https://doc-api-adm.vercel.app/" target="_blank">Link da Documentação</a>
 
 <a name="install"></a>
 
-## 5. Instalação e uso
+## 4. Instalação e uso
 
-### 5.1 Instalação:
+### 4.1 Instalação:
 
 git clone git@github.com:kellygalliani/API-RESTfull-crud-users-authentication.git
 <br>
@@ -54,7 +54,7 @@ npm start
 <br>
 optional: include .env in your .gitignore
 
-### 5.2 Variáveis de ambiente - para conexão com o Banco de dados:
+### 4.2 Variáveis de ambiente - para conexão com o Banco de dados:
 
 Crie a pasta .env na raiz do repositório
 Copie as variáveis de ambiente que estão no .env.example
@@ -77,7 +77,7 @@ Inclua as suas informações de configuração.
 
 <a name="devs"></a>
 
-## 6. Deselvolvedora
+## 5. Deselvolvedora
 
 - <a name="kelly" href="" target="_blank">Kelly Cristina</a>
 
