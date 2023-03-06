@@ -36,6 +36,8 @@ A aplicação é uma API que permite funções como Cadastro e Login com diferen
 
 ## 3. Documentação
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=api-admin&uri=https%3A%2F%2Fgithub.com%2Fkellygalliani%2Fadm-api%2Fblob%2Fmain%2FInsomnia_2023-03-06.json)
+
 <a name="doc" href="https://doc-api-adm.vercel.app/" target="_blank">Link da Documentação</a>
 
 <a name="install"></a>
